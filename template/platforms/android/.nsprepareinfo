@@ -1,0 +1,12 @@
+{
+	"time": "Mon Sep 03 2018 15:35:04 GMT+0700 (Indochina Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": true,
+	"projectFileHash": "f46183ef8944b4cbddb896d99f8a53dd3e7d65efd9ec5032bbe02a20dcce9975",
+	"changesRequireBuildTime": "Mon Sep 03 2018 15:35:04 GMT+0700 (Indochina Time)",
+	"appFilesHashes": {
+		"/home/thienphan/nativescript-vue/template/app/package.json": "acce7f391d591afd9121b2c64d5d251e1d1be57d"
+	}
+}

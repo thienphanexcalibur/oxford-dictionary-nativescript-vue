@@ -1,0 +1,4 @@
+#Mon Sep 03 15:35:24 ICT 2018
+base.0=/home/thienphan/nativescript-vue/template/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] /home/thienphan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8ce137ba80b5d26ad1f5e3334d8d9a5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/1f4ade2b168141101fd1cc9942fc87b6/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9112174fc6e90bcc978199e1d718489c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6145b6271da44f1555d321dd9533041/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:3:64-102
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:3:131-158
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:3:103-130
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.2] /home/thienphan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8ce137ba80b5d26ad1f5e3334d8d9a5b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/thienphan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/8ce137ba80b5d26ad1f5e3334d8d9a5b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized-with-inspector:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/1f4ade2b168141101fd1cc9942fc87b6/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/1f4ade2b168141101fd1cc9942fc87b6/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9112174fc6e90bcc978199e1d718489c/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9112174fc6e90bcc978199e1d718489c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6145b6271da44f1555d321dd9533041/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6145b6271da44f1555d321dd9533041/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:5-74
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:42-71
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:5-18:19
+MERGED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9112174fc6e90bcc978199e1d718489c/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/thienphan/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9112174fc6e90bcc978199e1d718489c/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:122-154
+	android:icon
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:92-121
+	android:allowBackup
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:65-91
+	android:theme
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:155-186
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:9:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:10:63-108
+	android:configChanges
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:10:109-170
+	android:theme
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:10:171-211
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:10:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:11:13-96
+	android:resource
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:11:59-93
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:11:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:14:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from /home/thienphan/nativescript-vue/template/platforms/android/app/src/main/AndroidManifest.xml:17:19-61
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/829eb2cd7984f815e5ddacca87f541f3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/e6a6d1c66fe2f9bfb371235b0dd6b38b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/37b82ba523f6ba1dab4765cb8364d578/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6145b6271da44f1555d321dd9533041/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6145b6271da44f1555d321dd9533041/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2897d59b4e4803804e0f3a8b6f6e954c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7d31812300387b8e13f8ac60ba1aec5f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/885d9c9d4bf0dc28946f6bef32fa2ef8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/829630a31a2f1825fa0996e85d7fdac7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fdcc6c4ece9cf35c2c2509130fa0ad33/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/79c9fc1390cff867af2735d4009079af/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b85ac9514dfe54bd68d40f63411a7b5a/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/thienphan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8997ec41d0e14566a700c0800cd9ebe/AndroidManifest.xml:26:9-47

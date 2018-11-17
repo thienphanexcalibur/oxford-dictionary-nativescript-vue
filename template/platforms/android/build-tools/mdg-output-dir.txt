@@ -1,0 +1,1 @@
+/home/thienphan/nativescript-vue/template/platforms/android/app/src/main/assets/metadata
